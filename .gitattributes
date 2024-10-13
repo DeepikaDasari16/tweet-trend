@@ -1,0 +1,2 @@
+terraform_code/.terraform/providers/registry.terraform.io/hashicorp/aws/5.71.0/windows_386/LICENSE.txt[[:space:]]create[[:space:]]mode[[:space:]]100644[[:space:]]terraform_code/.terraform/try.terraform.io/hashicorp/aws/5.71.0/windows_386/terraform-provider-aws_v5.71.0_x5.exe filter=lfs diff=lfs merge=lfs -text
+terraform_code/.terraform/providers/registry.terraform.io/hashicorp/aws/5.71.0/windows_386/terraform-provider-aws_v5.71.0_x5.exe filter=lfs diff=lfs merge=lfs -text
